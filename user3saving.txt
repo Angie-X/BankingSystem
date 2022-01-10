@@ -1,0 +1,8 @@
+27/4/2018 13:23:12	 deposit	 200	 balance	 200.0
+23/5/2018 12:23:45	 withdraw	 -50	 balance	 150.0
+24/5/2018 13:34:45	 deposit	 100	 balance	 250.0
+10/05/2018 14:42:47	deposit	1.0	balance	251.0
+10/05/2018 14:43:34	deposit	12.0	balance	263.0
+10/05/2018 15:20:38	deposit	1.0	balance	264.0
+12/05/2018 22:43:09	deposit	100.0	balance	364.0
+12/05/2018 22:43:55	withdraw	100.0	balance	264.0
